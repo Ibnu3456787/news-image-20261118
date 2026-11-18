@@ -145,11 +145,15 @@
     Democrats on the panel boycotted the hearing. FCC currently 2 Republicans,
     1 Democrat; it is weighing Disney's eight ABC stations. REPLACED 19 Nov
     (audit): Tyner handover (see audit note). Reuters (18 Nov 16:41 UTC).
-31. Como thrash Lens 9-1 in the Champions League — Como equalled the record for
-    the biggest winning margin in the modern Champions League with a 9-1 win
-    away to Lens on Wed 18 Nov; Douvikas hat-trick; only the second team to
-    score nine in a game. REPLACED 19 Nov (audit): SAFF final (see audit note).
-    A Sports (18 Nov 19:45 UTC).
+31. Alcaraz beats Medvedev at the ATP Finals — Carlos Alcaraz beat Daniil
+    Medvedev 6-2, 6-4 in 71 minutes on Wed 18 Nov at the Nitto ATP Finals,
+    Inalpi Arena, Turin (Ivan Lendl Group, round 2); never faced a break
+    point; 11th straight win. After Tiafoe beat Cobolli 7-6(6), 6-0 in the
+    evening match, Alcaraz topped the group and reached the semi-finals.
+    REPLACED 19 Nov (parent review): Como 9-1 Lens FAILED verification
+    (see audit note). Sources: ATP Tour (results, 18 Nov), Reuters
+    (2026-11-18T14:36:59Z), AP (2026-11-18T15:27:04Z), Tennis Majors
+    (2026-11-18T14:38:28Z), Tennis Tonic (2026-11-18T14:27:20Z).
 32. Google rolls out Genie 4 — Google made Genie 4 available on Wed 18 Nov to
     Google AI Ultra subscribers via Project Genie: edit generated worlds with
     mid-session prompts, native audio that changes with the scene; SynthID
@@ -204,10 +208,15 @@
   announced 14 Nov; the bishops' communiqué was issued 17 Nov; the 18 Nov ACI
   Africa article reports the 17 Nov communiqué. Fails the audit — NOT used.
 - Bafana Bafana 2-1 Kenya: match Tue 17 Nov (Sowetan).
+- Como 9-1 Lens — match played Wed 4 Nov 2026 (UEFA Champions League
+  Matchday 4, Stade Bollaert-Delelis), first reported 4-5 Nov (Opta
+  Analyst 2026-11-05T12:38Z; ESPN, BBC, Como official site). The 18 Nov
+  A Sports item was a republication/retrospective, not an 18 Nov event.
+  Removed in revision after parent verification (19 Nov).
 
 ## Continents covered
 Africa (Ebola, baboons), Asia (Xi-Putin, Trump-Marcos, Myanmar, Lee-Xi, ICJ),
-Europe (An-12, Kerch, Putin/NYT, NATO, UK-EU, Como), North America
+Europe (An-12, Kerch, Putin/NYT, NATO, UK-EU, Alcaraz/Turin), North America
 (Peltola, Canada-China, Carney-Trump, Sheinbaum-Trump, Nvidia, DOJ, NSA,
 Java4Shell, GPT-6.2, FCC, Cornyn, Genie 4, Rubio), Oceania (Xavier, Fiji),
 South America (Brazil footwear).
@@ -234,7 +243,9 @@ search (news vertical), 19 Nov ~06:12–06:25 WIB. Verdicts:
 - #31 SAFF final — REPLACE. Final Tue 17 Nov 9:00 PM WIB; first reported Tue
   (IANS Nov 17; khelangan 17 Nov 10:12 pm IST). 18 Nov items are
   congratulations/replays. Replaced by Como 9-1 Lens (A Sports, 18 Nov
-  19:45 UTC).
+  19:45 UTC) — BUT Como itself FAILED parent verification 19 Nov (see
+  note below); the slot now holds Alcaraz beats Medvedev (ATP Finals,
+  18 Nov, verified).
 - #32 Microsoft MAI models — REPLACE. Announced Tue 17 Nov at Ignite keynote.
   18 Nov coverage is analysis/re-report; no independent results as of Nov 18.
   Replaced by Google Genie 4 rollout (Google, 18 Nov).
@@ -254,3 +265,28 @@ search (news vertical), 19 Nov ~06:12–06:25 WIB. Verdicts:
 Result: 35 stories, 6 continents, #35 Brazil footwear kept as South America
 anchor. All 35 items now either happened on 18 Nov or had a genuine 18 Nov
 development / first report.
+
+## Revision 19 Nov — #31 Como FAILED parent verification
+The parent independently re-verified the Como replacement with 8 sources:
+the match was played Wednesday 4 November 2026 (UEFA Champions League
+Matchday 4, Stade Bollaert-Delelis) and first reported 4-5 Nov 2026
+(Opta Analyst published 2026-11-05T12:38Z; ESPN, BBC, Como official site,
+all 4-5 Nov). The audit citation "(A Sports, 18 Nov 19:45 UTC)" does not
+establish an 18 Nov event — a republication or retrospective of a 4 Nov
+match does not satisfy the requirement. Como removed entirely.
+
+Replacement — Alcaraz beats Medvedev 6-2, 6-4 at the ATP Finals:
+event AND first report both Wed 18 Nov 2026, Inalpi Arena, Turin.
+Verified by the revision agent, browser.search (news vertical), 19 Nov:
+ATP Tour official results page ("Alcaraz, Tiafoe win on Wednesday,
+November 18, 2026"); Reuters "TURIN, Italy, Nov 18" published
+2026-11-18T14:36:59Z; AP published 2026-11-18T15:27:04Z (TSN 16:00:11Z);
+Tennis Majors published 2026-11-18T14:38:28Z; Tennis Tonic published
+2026-11-18T14:27:20Z; Tennis Now dated Wednesday, November 18, 2026;
+Flashscore 2026-11-18T14:50:41Z; Tennis Watcher 2026-11-18T14:31:04Z.
+Score 6-2, 6-4 in 71 minutes, no break point faced; Tiafoe's 7-6(6),
+6-0 win over Cobolli in the evening match sent Alcaraz through as
+winner of the Ivan Lendl Group. Keeps the sport field in the index and
+Europe in the continental spread (Turin, Italy). All 35 items
+re-confirmed: every story happened, or was first reported, on 18 Nov
+2026 in some timezone, or is that day's genuine development.
