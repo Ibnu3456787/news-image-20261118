@@ -54,6 +54,11 @@
    Shanghai; covered across 18 Nov. Astra first model to reach High threshold for AI
    self-improvement; both Critical for cybersecurity. Artificial Analysis: Astra 62,
    2nd only to Claude Fable 5.2 (65). Sources: OpenAI, The Neuron, ghacks, SC Media.
+   KEPT (parent decision, fix round 2): the announcement qualifies under the
+   requirement's "in any time zone" clause — 17 Nov 18:00 UTC is 18 Nov 02:00 in
+   Shanghai, so the launch was first reported on 18 Nov in that timezone. Same
+   class as #4 Peltola (AP call Tue evening US = Wed UTC), rated a timezone-edge
+   PASS by the audit. Not touched in fix round 2.
 
 8. BOARD OF PEACE FAULTS ISRAEL & HAMAS (Middle East) — pin Gaza City (31.50, 34.47)
    Reuters 18 Nov 11:19 UTC: Trump's Board of Peace 12-page report (2nd to the UN
@@ -61,11 +66,15 @@
    warns "a ceasefire that delivers nothing visible cannot be sustained indefinitely".
    Hamas dismissed it as "pure disinformation". Sources: Reuters.
 
-9. AN-12 CRASH KILLS 19 (Europe) — pin Kemerovo (55.36, 86.09)
+9. AN-12 CRASH: CASE OPENED (Europe) — pin Kemerovo (55.36, 86.09)
    Russian military An-12 transport crashed near Yagunovo, Kemerovo region, Siberia,
    Tue 17 Nov (flight Novosibirsk-Kansk); all 19 aboard killed; Defence Ministry cites
-   preliminary technical malfunction. On Wed 18 Nov Russia's Investigative Committee
-   opened a criminal case (Interfax). Sources: Reuters, BBC, Al Jazeera, Interfax.
+   preliminary technical malfunction. THE 18 NOV EVENT: on Wed 18 Nov Russia's
+   Investigative Committee opened a criminal case under Article 351 (flight-rule
+   violations), reported by Interfax on 18 Nov. Tile reframed in fix round 2 to
+   foreground the case opening ("CASE OPENED OVER AN-12 CRASH"); the transport-plane
+   vignette still fits. Sources: Interfax (via slovaknews, 2026-11-18T05:09:12Z;
+   aviationtoday.in, 2026-11-18T05:09:31Z), Reuters, BBC, Al Jazeera.
 
 10. CANADA-CHINA DEEPEN TIES (North America) — pin Ottawa (45.42, -75.70)
     Wed 18 Nov in Shenzhen: PM Carney said Canada & China are widening access for
@@ -116,12 +125,22 @@
     proving difficult. Deals still expected on agrifood trade, youth mobility,
     emissions trading linkage. REPLACED 19 Nov (audit): Deutsche Bank leak
     (see audit note). Reuters.
-22. Epoch AI: no frontier model meets its employee standard on real work; Fable 5.2
-    leads GPT-6.2 Astra 82% vs 65%; Fable 5.2 & Opus 5.5 reach contractor level on
-    data-centre analysis. Epoch AI, Daily AI Brief.
-23. Kerch Bridge: trains cross past the fallen road arch as Russia plans extra
-    services; road section out of service, rail on one track; rebuild promised to take
-    1+ years. TASS, Russian Transport Ministry, OSINT video 18 Nov.
+22. EU approves Indonesia trade deal — EU governments authorised on Wed 18 Nov
+    the signature and provisional application of the EU-Indonesia Comprehensive
+    Economic Partnership Agreement (CEPA) and Investment Protection Agreement
+    (IPA); duties cut on >90% of products, Indonesia's 50% duty on EU cars gone
+    within 5 years; signing set for 21 Nov. REPLACED 19 Nov (fix round 2):
+    Epoch AI employee-standard claim (see fix round 2 note). Reuters
+    (2026-11-18T18:28:23Z), Council of the EU (press release, 18 Nov),
+    gov.ie (2026-11-18T16:09:53Z), Agence Europe (18 Nov).
+23. EU proposes EUR45bn Ukraine loan — European Commission adopted on Wed 18 Nov
+    legislative proposals for up to EUR45bn in additional financial support to
+    Ukraine in 2027 (EUR25bn military, EUR20bn budget support), a limited-recourse
+    loan repayable only once Russia pays reparations; covers two-thirds of
+    Ukraine's EUR70bn 2027 financing gap. REPLACED 19 Nov (fix round 2):
+    Kerch Bridge aftermath (see fix round 2 note). European Commission
+    (2026-11-18T17:21:33+01:00), Reuters (2026-11-18T14:18:54Z), Agence
+    Europe (18 Nov).
 24. Animal groups condemn Cape Town's confinement of 44 Waterfall baboons in a
     2.31-hectare enclosure (0.34% of their home range); EMS Foundation statement
     18 Nov. EMS Foundation, SANParks.
@@ -165,15 +184,22 @@
     Trump's lame-duck confirmation push before Democrats take the Senate on
     3 Jan. REPLACED 19 Nov (audit): Merchant sentencing (see audit note).
     Reuters (18 Nov 17:35 UTC).
-34. NSA's classified network still not fully restored — a day after a PHP security
-    patch took NSANet down (Tue 17 Nov), full restoration was still unconfirmed
-    on Wed 18 Nov; restoration under way, Fort Meade campus restricted to
-    essential staff; no sign of cyberattack. KEPT 19 Nov (audit): the 18 Nov
-    development is the continued outage/non-restoration, reported Wed.
-    The Defense News, The Buyers Pulse (18 Nov); CNN, Reuters.
-35. Brazilian footwear exports fall 13.5% in value Jan-Oct (87.87m pairs, $708.4m);
-    US tariffs at 37.5% blamed; sales to Argentina down 43.3% in volume. Secex /
-    Abicalcados (data published 18 Nov).
+34. Senators press DNI over NSA outage; ROOT CAUSE Act filed — the congressional
+    response to the 17 Nov NSANet outage: on Wed 18 Nov Senators Maria Cantwell
+    (D-WA) and Mike Rounds (R-SD) wrote to DNI Jay Clayton demanding a national
+    response to AI-enabled cyber threats, and House lawmakers introduced the
+    bipartisan ROOT CAUSE Act (Luttrell/Torres) creating a National Cyber and AI
+    Investigations Board in CISA. REFRAMED 19 Nov (fix round 2): the old
+    "still not fully restored" line was a pure status, not an 18 Nov event
+    (see fix round 2 note). Nextgov (18 Nov 09:30 AM ET), Reuters (letter),
+    The Buyers Pulse (18 Nov).
+35. Brazil Senate passes $10bn fiscal package — Brazil's Senate approved on Wed
+    18 Nov a fiscal package backed by reelected President Lula combining spending
+    restraints and revenue measures worth up to 60bn reais ($10.29bn) in 2027;
+    heads to the lower house as Finance Minister Durigan seeks to calm markets.
+    REPLACED 19 Nov (fix round 2): Brazilian footwear exports (see fix round 2
+    note). Keeps South America in the 6-continent spread. Reuters
+    (2026-11-18T22:33:23Z).
 
 ## Checked and dropped
 
@@ -192,8 +218,35 @@
 - Sozcu TV seizure — raid was Tue 17 Nov (CPJ statement Wed).
 - UNEP/WHO endocrine-disruptor report — released Tue 17 Nov.
 - Measles: US lost elimination status — already the 20261117 entry's illustrated #9.
-- Kerch Bridge collapse as lead — already the 20261117 entry's lead; 18 Nov only has
-  the aftermath (index #23).
+- Kerch Bridge collapse as lead — already the 20261117 entry's lead. The 18 Nov
+  aftermath (trains crossing past the fallen road arch) was index #23 until fix
+  round 2, when the full re-audit rated it WEAK (continuing state; collapse +
+  rail resumption were 17 Nov) and it was replaced by the EU EUR45bn Ukraine
+  loan proposal.
+- Brazilian footwear exports fall 13.5% — a 12 Nov story republished 18 Nov
+  with identical figures (stt.world 12 Nov piece, published
+  2026-11-12T12:26:35Z; same 87.87m pairs / $708.4m / 13.5%). The notes'
+  "(data published 18 Nov)" claim was wrong. FAILED the full re-audit
+  19 Nov; replaced by the Brazil Senate fiscal package (Reuters, 18 Nov).
+- Epoch AI employee standard — date cannot be pinned to 18 Nov; two
+  secondaries say announced 17 Nov; the Epoch page carries no visible date.
+  FAILED the full re-audit 19 Nov (WEAK); replaced by the EU-Indonesia
+  trade deal authorisation (Reuters, 18 Nov).
+- NSA outage as a status line ("still not fully restored a day on") — pure
+  status, no new 18 Nov event; its own source calls itself "the morning-after
+  balance" of a 17 Nov event. Reframed in fix round 2 on the genuine 18 Nov
+  development: the Cantwell/Rounds letter + ROOT CAUSE Act.
+- Finland Onkalo nuclear waste repository licence — granted 22 Oct 2026
+  (Posiva, Andra, World Nuclear News); the 18 Nov thegermanyeye item is a
+  republication. Caught in fix round 2 verification — NOT used.
+- Lagarde stepping down as ECB president — announced 29 Oct 2026 (ECB press
+  release; Consilium 2026-10-29); 18 Nov items concern the succession
+  (nomination deadline), not the announcement. Caught in fix round 2
+  verification — NOT used.
+- Spain high-speed train crash, Toledo — happened 28 Oct 2026 (Al Jazeera
+  photo URL /2026/10/28/; GlobalDailyReports dated Oct 28); 18 Nov items
+  are follow-ups/republications of the October crash. Caught in fix round 2
+  verification — NOT used.
 - Nvidia earnings — already the 20261117 entry's illustrated #8; 18 Nov angle is the
   market reaction + board statement (index #17).
 - Trump "dirty bomb" remarks: CNN reported Mon 16 Nov; Trump responded Tue 17 Nov
@@ -215,11 +268,12 @@
   Removed in revision after parent verification (19 Nov).
 
 ## Continents covered
-Africa (Ebola, baboons), Asia (Xi-Putin, Trump-Marcos, Myanmar, Lee-Xi, ICJ),
-Europe (An-12, Kerch, Putin/NYT, NATO, UK-EU, Alcaraz/Turin), North America
-(Peltola, Canada-China, Carney-Trump, Sheinbaum-Trump, Nvidia, DOJ, NSA,
-Java4Shell, GPT-6.2, FCC, Cornyn, Genie 4, Rubio), Oceania (Xavier, Fiji),
-South America (Brazil footwear).
+Africa (Ebola, baboons), Asia (Xi-Putin, Trump-Marcos, Myanmar, Lee-Xi, ICJ,
+EU-Indonesia), Europe (An-12, Putin/NYT, NATO, UK-EU, Alcaraz/Turin,
+EU-Indonesia, EU Ukraine loan), North America (Peltola, Canada-China,
+Carney-Trump, Sheinbaum-Trump, Nvidia, DOJ, NSA, Java4Shell, GPT-6.2, FCC,
+Cornyn, Genie 4, Rubio), Oceania (Xavier, Fiji), South America (Brazil
+Senate fiscal package).
 
 ## Audit 19 Nov — 7 borderline-date index items (composition phase)
 Requirement verbatim: "the events that happened, or were first reported, on
@@ -264,7 +318,11 @@ search (news vertical), 19 Nov ~06:12–06:25 WIB. Verdicts:
 
 Result: 35 stories, 6 continents, #35 Brazil footwear kept as South America
 anchor. All 35 items now either happened on 18 Nov or had a genuine 18 Nov
-development / first report.
+development / first report. (NOTE: the full re-audit 19 Nov later FAILED
+#35 Brazil footwear — a 12 Nov story republished 18 Nov — and rated #9,
+#22, #23, #34 WEAK; see "Fix round 2" below. The South America anchor is
+now the Brazil Senate fiscal package, also 18 Nov, so the 6-continent
+claim still holds.)
 
 ## Revision 19 Nov — #31 Como FAILED parent verification
 The parent independently re-verified the Como replacement with 8 sources:
@@ -290,3 +348,65 @@ winner of the Ivan Lendl Group. Keeps the sport field in the index and
 Europe in the continental spread (Turin, Italy). All 35 items
 re-confirmed: every story happened, or was first reported, on 18 Nov
 2026 in some timezone, or is that day's genuine development.
+
+## Fix round 2 — 19 Nov (parent's full re-audit: 1 FAIL + 5 WEAK)
+The parent's full re-audit of all 35 stories found 1 FAIL (#35) and 5 WEAK
+(#7, #9, #22, #23, #34). All fixed in this round except #7 (parent
+decision: KEEP — see its entry). Verification by the fix agent,
+browser.search (news vertical), 19 Nov; every new claim checked for BOTH
+event date and first-report date = 18 Nov 2026.
+
+- #35 REPLACE (FAIL). Brazilian footwear exports: a 12 Nov story republished
+  18 Nov with identical figures (stt.world, published 2026-11-12T12:26:35Z;
+  same 87.87m pairs / $708.4m / 13.5%). The notes' "(data published 18 Nov)"
+  claim was wrong and is struck. Replacement: Brazil Senate passes $10bn
+  fiscal package — Senate approved Wed 18 Nov (Reuters, BRASILIA Nov 18,
+  published 2026-11-18T22:33:23Z; 7 corroborating outlets). South America
+  anchor preserved, so the masthead's "6 CONTINENTS" still holds.
+- #9 REFRAME (WEAK). Crash was 17 Nov; the genuine 18 Nov development is
+  the criminal case opened by the Investigative Committee (Art. 351),
+  reported by Interfax on 18 Nov (slovaknews 2026-11-18T05:09:12Z;
+  aviationtoday.in 2026-11-18T05:09:31Z). Headline now "CASE OPENED OVER
+  AN-12 CRASH"; sub "Probe into Tuesday's Siberia crash; 19 dead."
+  ("Tuesday's" anchors the crash to 17 Nov; the case opening is today's
+  event.) Same vignette — a transport plane — still fits.
+- #22 REPLACE (WEAK). Epoch AI employee-standard claim: date cannot be
+  pinned to 18 Nov (two secondaries say announced 17 Nov; Epoch page has
+  no visible date). Replacement: EU approves Indonesia trade deal — Council
+  authorised signature + provisional application of CEPA and IPA on Wed
+  18 Nov (Reuters 2026-11-18T18:28:23Z; Consilium press release 18 Nov;
+  gov.ie 2026-11-18T16:09:53Z). Non-US, as preferred (the index is
+  US-heavy). Duties cut on >90% of products.
+- #23 REPLACE (WEAK). Kerch Bridge aftermath: continuing state; collapse +
+  rail resumption were 17 Nov. Replacement: EU proposes EUR45bn Ukraine
+  loan — Commission adopted legislative proposals Wed 18 Nov for up to
+  EUR45bn additional support in 2027 (EUR25bn military, EUR20bn budget),
+  repayable only once Russia pays reparations (European Commission
+  2026-11-18T17:21:33+01:00; Reuters 2026-11-18T14:18:54Z). Distinct from
+  the 30 Oct allocation of the existing EUR90bn loan — this is a NEW
+  additional proposal. Note: index now has three adjacent EU items
+  (#21 UK-EU, #22 EU-Indonesia, #23 EU-Ukraine) — different beats, but
+  a cluster; recorded as a minor weakness.
+- #34 REFRAME (WEAK). "Still not fully restored" was a pure status, no new
+  18 Nov event. Reframed on the genuine 18 Nov development: Senators
+  Cantwell (D-WA) and Rounds (R-SD) wrote to DNI Clayton on Wednesday
+  demanding a national response to AI-enabled cyber threats (reported by
+  Reuters), and House lawmakers introduced the bipartisan ROOT CAUSE Act
+  (Luttrell/Torres) creating a National Cyber and AI Investigations Board
+  in CISA (Nextgov, 18 Nov 09:30 AM ET; shared first with Nextgov/FCW).
+  New line: "Senators press DNI over NSA outage; ROOT CAUSE Act filed."
+  Nextgov added to the sources line (primary source for the bill).
+- #7 KEEP (parent decision). GPT-6.2: announced 17 Nov 18:00 UTC = 18 Nov
+  02:00 Shanghai — qualifies under "in any time zone", same class as #4
+  Peltola (timezone-edge PASS). Unchanged.
+
+Candidates checked and REJECTED in this round (all Como-pattern
+republications — see "Checked and dropped"): Finland Onkalo licence
+(22 Oct), Lagarde ECB departure (29 Oct), Spain Toledo train crash
+(28 Oct).
+
+Result after fix round 2: 35 stories, 6 continents, every item either
+happened on 18 Nov, was first reported on 18 Nov in some timezone, or
+is that day's genuine development — with the #7 timezone case documented
+above. Sources line updated (Nextgov added). README byte count corrected
+to the rebuilt entry.png size.

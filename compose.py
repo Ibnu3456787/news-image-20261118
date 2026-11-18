@@ -128,9 +128,9 @@ STORIES = [
          sub_b="Both sides failing ceasefire pledges.",
          lat=31.50, lon=34.47, roi=(0.0, 0.02, 1.0, 0.30)),
     dict(num=9, file="09-an12-a-fixed.png", region="EUROPE",
-         headline="AN-12 CRASH KILLS 19",
-         sub="Transport plane down in Siberia; case opened.",
-         sub_b="Transport plane down; case opened.",
+         headline="CASE OPENED OVER AN-12 CRASH",
+         sub="Probe into Tuesday's Siberia crash; 19 dead.",
+         sub_b="Probe into Tuesday's crash; 19 dead.",
          lat=55.36, lon=86.09),
     dict(num=10, file="10-canada-b.png", region="NORTH AMERICA",
          headline="CANADA-CHINA TIES DEEPEN",
@@ -155,8 +155,8 @@ INDEX = [
     (19, "Fiji declares national disaster over El Nino drought."),
     (20, "World Court to rule Thursday on Myanmar genocide case."),
     (21, "UK and EU drop \u2018trusted partnership\u2019 from summit draft."),
-    (22, "Epoch AI: no frontier model meets its employee standard."),
-    (23, "Kerch Bridge trains cross past the fallen road arch."),
+    (22, "EU approves Indonesia trade deal; 90% of duties cut."),
+    (23, "EU proposes \u20ac45bn Ukraine loan; \u20ac25bn military."),
     (24, "Cape Town condemned over 44 baboons in tiny enclosure."),
     (25, "DOJ moves to block Jack Smith\u2019s deposition in BBC suit."),
     (26, "Myanmar\u2019s Min Aung Hlaing to review ASEAN relationship."),
@@ -167,12 +167,12 @@ INDEX = [
     (31, "Alcaraz beats Medvedev 6-2, 6-4 to top ATP Finals group."),
     (32, "Google rolls out Genie 4 world-builder to Ultra users."),
     (33, "Cornyn blocks Trump\u2019s judicial nominee in lame-duck setback."),
-    (34, "NSA\u2019s classified network still not fully restored a day on."),
-    (35, "Brazilian footwear exports fall 13.5% on US tariffs."),
+    (34, "Senators press DNI over NSA outage; ROOT CAUSE Act filed."),
+    (35, "Brazil Senate passes $10bn fiscal package to calm markets."),
 ]
 
 SOURCES = ("Sources: AP, Reuters, AFP, BBC, Al Jazeera, UN News, NASA, WHO, "
-           "NATO, OpenAI, Google, PNA. The day\u2019s news, "
+           "NATO, Nextgov, OpenAI, Google, PNA. The day\u2019s news, "
            "Wednesday 18 November 2026. Original drawings.")
 
 JUDGE_LINE = ("Every story below happened, or was first reported, on this day.")
